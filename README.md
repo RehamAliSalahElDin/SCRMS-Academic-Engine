@@ -89,4 +89,20 @@ The system logic is governed by strict execution workflows, mapping out step-by-
  ┃     ┣ 🖼️ sequence_diagram.png
  ┃     ┣ 🖼️ use_case.png
  ┃     ┗ 🖼️ er_diagram.png
- ┗ 📜 README.md
+ ┗ 📂 code
+    ┗ 📂 ai and soft (gui edition)
+       ┗ 📂 ai and soft
+          ┗ 📂 main project 3 (the highest priority now)
+             ┣ 📂 data
+             ┣ 📂 data_access
+             ┣ 📂 logic
+             ┣ 📂 models
+             ┣ 📂 ui
+             ┣ 📜 admin_cfg.txt
+             ┣ 📜 admin_cred.txt
+             ┣ 📜 data_generator.py
+             ┣ 📜 debug_data.py
+             ┣ 📜 main.py
+             ┣ 📜 process_student_data.py
+             ┣ 📜 test_recommendations.py
+             ┗ 📜 train_model.py
