@@ -1,0 +1,38 @@
+[2026-05-02 21:08:02] | Actor: SYSTEM_ADMIN    | Action: CLEAR_LOGS         | Details: Log file truncated
+[2026-05-02 21:08:03] | Actor: SYSTEM_ADMIN    | Action: MAINTENANCE        | Details: Set to ON
+[2026-05-02 21:08:17] | Actor: SYSTEM_ADMIN    | Action: LOGIN              | Details: Success
+[2026-05-02 21:08:18] | Actor: SYSTEM_ADMIN    | Action: MAINTENANCE        | Details: Set to OFF
+[2026-05-02 21:10:09] | Actor: SYSTEM_ADMIN    | Action: LOGIN              | Details: Success
+[2026-05-02 21:10:31] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated ID: 1050
+[2026-05-02 21:10:37] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated ID: 1023
+[2026-05-02 21:10:44] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated ID: 1001
+[2026-05-02 21:10:59] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated ID: 1026
+[2026-05-02 21:11:10] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated ID: 1111
+[2026-05-02 21:11:45] | Actor: SYSTEM_ADMIN    | Action: RESET_ALL_PWD      | Details: All passwords reset to default
+[2026-05-02 21:13:26] | Actor: Student_1       | Action: STUDENT_LOGIN      | Details: ID: 1000
+[2026-05-02 21:13:33] | Actor: Student_90      | Action: STUDENT_LOGIN      | Details: ID: 1123
+[2026-05-02 21:15:52] | Actor: SYSTEM_ADMIN    | Action: LOGIN              | Details: Success
+[2026-05-02 21:19:48] | Actor: SYSTEM_ADMIN    | Action: LOGIN              | Details: Success
+[2026-05-02 21:25:54] | Actor: SYSTEM_ADMIN    | Action: LOGIN              | Details: Success
+[2026-05-02 21:26:59] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1000
+[2026-05-02 21:27:53] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1000
+[2026-05-02 21:28:03] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1001
+[2026-05-02 21:28:12] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1050
+[2026-05-02 21:28:20] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1060
+[2026-05-02 21:28:27] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1070
+[2026-05-02 21:29:10] | Actor: SYSTEM_ADMIN    | Action: LOGIN              | Details: Success
+[2026-05-02 21:29:24] | Actor: SYSTEM_ADMIN    | Action: RESET_ALL_PWD      | Details: All passwords reset to default
+[2026-05-02 21:31:13] | Actor: SYSTEM_ADMIN    | Action: LOGIN              | Details: Success
+[2026-05-02 21:37:04] | Actor: SYSTEM_ADMIN    | Action: LOGIN              | Details: Success
+[2026-05-02 21:37:16] | Actor: SYSTEM_ADMIN    | Action: FULL_SYSTEM_RESET  | Details: All passwords and login emails reset to default IDs
+[2026-05-02 21:37:47] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1000
+[2026-05-02 21:38:02] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1001
+[2026-05-02 21:38:10] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1013
+[2026-05-02 21:38:30] | Actor: SYSTEM_ADMIN    | Action: EDIT_STUDENT       | Details: Updated credentials for ID: 1024
+[2026-05-02 21:39:06] | Actor: SYSTEM_ADMIN    | Action: FULL_SYSTEM_RESET  | Details: All passwords and login emails reset to default IDs
+[2026-05-02 21:40:53] | Actor: ADMIN           | Action: LOGIN              | Details: Success
+[2026-05-02 21:41:09] | Actor: ADMIN           | Action: ADD_STUDENT        | Details: Added ID: 111111
+[2026-05-02 21:41:39] | Actor: ADMIN           | Action: ADD_STUDENT        | Details: Added ID: 1234325
+[2026-05-02 21:41:59] | Actor: ADMIN           | Action: REMOVE_STUDENT     | Details: ID: 111111
+[2026-05-02 21:42:07] | Actor: ADMIN           | Action: REMOVE_STUDENT     | Details: ID: 1234325
+[2026-05-02 21:55:32] | Actor: Student_1       | Action: STUDENT_LOGIN      | Details: ID: 1000

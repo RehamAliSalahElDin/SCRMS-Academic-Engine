@@ -1,0 +1,1001 @@
+Student_Name,Course_ID,Rating,course_title,Tags
+Student_1,401,4,Microprocessor Architecture,track_400 level_1
+Student_1,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_1,501,4,Classical Control Theory,track_500 level_1
+Student_1,701,4,Communication Theory,track_700 level_1
+Student_10,101,3,Linear Algebra,track_100 level_1
+Student_10,102,4,Numerical Analysis,track_100 level_2
+Student_10,201,5,Object-Oriented Programming,track_200 level_1
+Student_10,202,3,Data Structures & Algorithms,track_200 level_2
+Student_10,401,5,Microprocessor Architecture,track_400 level_1
+Student_10,601,3,Pattern Recognition,track_600 level_1
+Student_10,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_10,701,3,Communication Theory,track_700 level_1
+Student_10,801,3,Networking Fundamentals,track_800 level_1
+Student_100,101,5,Linear Algebra,track_100 level_1
+Student_100,111,5,Electric Circuits Analysis,track_110 level_1
+Student_100,301,5,Electricity and Magnetism,track_300 level_1
+Student_100,302,4,Semiconductor Physics,track_300 level_2
+Student_100,801,3,Networking Fundamentals,track_800 level_1
+Student_100,901,3,Database Management Systems,track_900 level_1
+Student_101,301,3,Electricity and Magnetism,track_300 level_1
+Student_101,302,3,Semiconductor Physics,track_300 level_2
+Student_101,401,5,Microprocessor Architecture,track_400 level_1
+Student_101,501,3,Classical Control Theory,track_500 level_1
+Student_101,502,4,Modern Digital Control,track_500 level_2
+Student_101,701,3,Communication Theory,track_700 level_1
+Student_101,801,3,Networking Fundamentals,track_800 level_1
+Student_101,802,4,Routing & Switching,track_800 level_2
+Student_102,301,5,Electricity and Magnetism,track_300 level_1
+Student_102,302,4,Semiconductor Physics,track_300 level_2
+Student_102,501,5,Classical Control Theory,track_500 level_1
+Student_102,502,3,Modern Digital Control,track_500 level_2
+Student_102,901,3,Database Management Systems,track_900 level_1
+Student_103,111,5,Electric Circuits Analysis,track_110 level_1
+Student_103,112,3,Electronic Devices,track_110 level_2
+Student_103,201,5,Object-Oriented Programming,track_200 level_1
+Student_103,202,4,Data Structures & Algorithms,track_200 level_2
+Student_103,501,5,Classical Control Theory,track_500 level_1
+Student_103,601,4,Pattern Recognition,track_600 level_1
+Student_103,701,3,Communication Theory,track_700 level_1
+Student_103,901,4,Database Management Systems,track_900 level_1
+Student_103,902,3,Big Data Technologies,track_900 level_2
+Student_104,201,5,Object-Oriented Programming,track_200 level_1
+Student_104,301,4,Electricity and Magnetism,track_300 level_1
+Student_104,701,4,Communication Theory,track_700 level_1
+Student_104,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_104,901,5,Database Management Systems,track_900 level_1
+Student_104,902,4,Big Data Technologies,track_900 level_2
+Student_105,201,4,Object-Oriented Programming,track_200 level_1
+Student_105,501,3,Classical Control Theory,track_500 level_1
+Student_105,502,5,Modern Digital Control,track_500 level_2
+Student_105,701,3,Communication Theory,track_700 level_1
+Student_105,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_105,801,5,Networking Fundamentals,track_800 level_1
+Student_105,802,4,Routing & Switching,track_800 level_2
+Student_105,901,4,Database Management Systems,track_900 level_1
+Student_105,902,4,Big Data Technologies,track_900 level_2
+Student_106,111,5,Electric Circuits Analysis,track_110 level_1
+Student_106,201,5,Object-Oriented Programming,track_200 level_1
+Student_106,401,5,Microprocessor Architecture,track_400 level_1
+Student_106,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_106,501,4,Classical Control Theory,track_500 level_1
+Student_106,502,4,Modern Digital Control,track_500 level_2
+Student_106,601,3,Pattern Recognition,track_600 level_1
+Student_107,101,4,Linear Algebra,track_100 level_1
+Student_107,102,5,Numerical Analysis,track_100 level_2
+Student_107,301,5,Electricity and Magnetism,track_300 level_1
+Student_107,401,3,Microprocessor Architecture,track_400 level_1
+Student_107,402,5,Real-Time Systems (RTOS),track_400 level_2
+Student_107,601,3,Pattern Recognition,track_600 level_1
+Student_107,801,4,Networking Fundamentals,track_800 level_1
+Student_108,101,4,Linear Algebra,track_100 level_1
+Student_108,102,4,Numerical Analysis,track_100 level_2
+Student_108,301,3,Electricity and Magnetism,track_300 level_1
+Student_108,302,3,Semiconductor Physics,track_300 level_2
+Student_108,601,3,Pattern Recognition,track_600 level_1
+Student_108,602,4,Neural Networks & Deep Learning,track_600 level_2
+Student_108,801,5,Networking Fundamentals,track_800 level_1
+Student_108,802,5,Routing & Switching,track_800 level_2
+Student_109,111,3,Electric Circuits Analysis,track_110 level_1
+Student_109,501,3,Classical Control Theory,track_500 level_1
+Student_109,701,3,Communication Theory,track_700 level_1
+Student_109,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_11,111,3,Electric Circuits Analysis,track_110 level_1
+Student_11,112,4,Electronic Devices,track_110 level_2
+Student_11,301,3,Electricity and Magnetism,track_300 level_1
+Student_11,302,5,Semiconductor Physics,track_300 level_2
+Student_11,401,4,Microprocessor Architecture,track_400 level_1
+Student_11,501,5,Classical Control Theory,track_500 level_1
+Student_11,502,4,Modern Digital Control,track_500 level_2
+Student_11,801,3,Networking Fundamentals,track_800 level_1
+Student_11,802,3,Routing & Switching,track_800 level_2
+Student_11,901,4,Database Management Systems,track_900 level_1
+Student_11,902,5,Big Data Technologies,track_900 level_2
+Student_110,101,5,Linear Algebra,track_100 level_1
+Student_110,102,3,Numerical Analysis,track_100 level_2
+Student_110,111,4,Electric Circuits Analysis,track_110 level_1
+Student_110,401,5,Microprocessor Architecture,track_400 level_1
+Student_110,701,4,Communication Theory,track_700 level_1
+Student_110,801,4,Networking Fundamentals,track_800 level_1
+Student_110,802,4,Routing & Switching,track_800 level_2
+Student_111,101,5,Linear Algebra,track_100 level_1
+Student_111,201,4,Object-Oriented Programming,track_200 level_1
+Student_111,202,5,Data Structures & Algorithms,track_200 level_2
+Student_111,801,3,Networking Fundamentals,track_800 level_1
+Student_111,802,3,Routing & Switching,track_800 level_2
+Student_111,901,4,Database Management Systems,track_900 level_1
+Student_111,902,5,Big Data Technologies,track_900 level_2
+Student_112,201,5,Object-Oriented Programming,track_200 level_1
+Student_112,401,4,Microprocessor Architecture,track_400 level_1
+Student_112,402,5,Real-Time Systems (RTOS),track_400 level_2
+Student_112,901,5,Database Management Systems,track_900 level_1
+Student_112,902,3,Big Data Technologies,track_900 level_2
+Student_113,301,4,Electricity and Magnetism,track_300 level_1
+Student_113,302,3,Semiconductor Physics,track_300 level_2
+Student_113,401,3,Microprocessor Architecture,track_400 level_1
+Student_113,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_113,501,3,Classical Control Theory,track_500 level_1
+Student_113,801,4,Networking Fundamentals,track_800 level_1
+Student_113,802,3,Routing & Switching,track_800 level_2
+Student_114,601,3,Pattern Recognition,track_600 level_1
+Student_114,701,4,Communication Theory,track_700 level_1
+Student_114,801,3,Networking Fundamentals,track_800 level_1
+Student_115,111,4,Electric Circuits Analysis,track_110 level_1
+Student_115,201,4,Object-Oriented Programming,track_200 level_1
+Student_115,301,3,Electricity and Magnetism,track_300 level_1
+Student_115,302,4,Semiconductor Physics,track_300 level_2
+Student_115,801,5,Networking Fundamentals,track_800 level_1
+Student_115,802,3,Routing & Switching,track_800 level_2
+Student_116,111,4,Electric Circuits Analysis,track_110 level_1
+Student_116,112,5,Electronic Devices,track_110 level_2
+Student_116,301,3,Electricity and Magnetism,track_300 level_1
+Student_116,401,4,Microprocessor Architecture,track_400 level_1
+Student_116,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_116,601,4,Pattern Recognition,track_600 level_1
+Student_116,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_116,901,3,Database Management Systems,track_900 level_1
+Student_116,902,4,Big Data Technologies,track_900 level_2
+Student_117,201,5,Object-Oriented Programming,track_200 level_1
+Student_117,301,3,Electricity and Magnetism,track_300 level_1
+Student_117,302,4,Semiconductor Physics,track_300 level_2
+Student_117,401,3,Microprocessor Architecture,track_400 level_1
+Student_117,601,4,Pattern Recognition,track_600 level_1
+Student_117,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_117,701,5,Communication Theory,track_700 level_1
+Student_117,801,3,Networking Fundamentals,track_800 level_1
+Student_118,401,4,Microprocessor Architecture,track_400 level_1
+Student_118,501,5,Classical Control Theory,track_500 level_1
+Student_118,901,4,Database Management Systems,track_900 level_1
+Student_118,902,4,Big Data Technologies,track_900 level_2
+Student_119,201,3,Object-Oriented Programming,track_200 level_1
+Student_119,601,3,Pattern Recognition,track_600 level_1
+Student_119,602,4,Neural Networks & Deep Learning,track_600 level_2
+Student_119,901,3,Database Management Systems,track_900 level_1
+Student_119,902,4,Big Data Technologies,track_900 level_2
+Student_12,101,3,Linear Algebra,track_100 level_1
+Student_12,111,3,Electric Circuits Analysis,track_110 level_1
+Student_12,112,4,Electronic Devices,track_110 level_2
+Student_12,501,4,Classical Control Theory,track_500 level_1
+Student_12,601,4,Pattern Recognition,track_600 level_1
+Student_12,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_12,701,4,Communication Theory,track_700 level_1
+Student_12,901,3,Database Management Systems,track_900 level_1
+Student_12,902,5,Big Data Technologies,track_900 level_2
+Student_120,301,4,Electricity and Magnetism,track_300 level_1
+Student_120,801,3,Networking Fundamentals,track_800 level_1
+Student_120,802,3,Routing & Switching,track_800 level_2
+Student_120,901,4,Database Management Systems,track_900 level_1
+Student_120,902,4,Big Data Technologies,track_900 level_2
+Student_120,903,3,Data Warehousing,track_900 level_3
+Student_121,101,5,Linear Algebra,track_100 level_1
+Student_121,102,4,Numerical Analysis,track_100 level_2
+Student_121,103,5,Probability & Statistics,track_100 level_3
+Student_121,111,3,Electric Circuits Analysis,track_110 level_1
+Student_121,112,4,Electronic Devices,track_110 level_2
+Student_121,113,4,Power Systems Engineering,track_110 level_3
+Student_121,201,4,Object-Oriented Programming,track_200 level_1
+Student_121,202,4,Data Structures & Algorithms,track_200 level_2
+Student_121,203,5,Software Architecture,track_200 level_3
+Student_121,401,5,Microprocessor Architecture,track_400 level_1
+Student_121,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_121,403,5,Hardware Description Languages (HDL),track_400 level_3
+Student_121,601,3,Pattern Recognition,track_600 level_1
+Student_121,602,4,Neural Networks & Deep Learning,track_600 level_2
+Student_121,603,4,Computer Vision,track_600 level_3
+Student_121,701,3,Communication Theory,track_700 level_1
+Student_121,702,3,Digital Signal Processing (DSP),track_700 level_2
+Student_121,703,4,Wireless Communication,track_700 level_3
+Student_122,111,4,Electric Circuits Analysis,track_110 level_1
+Student_122,112,5,Electronic Devices,track_110 level_2
+Student_122,113,5,Power Systems Engineering,track_110 level_3
+Student_122,301,5,Electricity and Magnetism,track_300 level_1
+Student_122,302,3,Semiconductor Physics,track_300 level_2
+Student_122,303,4,Optoelectronics,track_300 level_3
+Student_122,304,5,Quantum Computing Basics,track_300 level_4
+Student_122,401,5,Microprocessor Architecture,track_400 level_1
+Student_122,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_122,403,5,Hardware Description Languages (HDL),track_400 level_3
+Student_122,404,5,System on Chip (SoC) Design,track_400 level_4
+Student_122,601,5,Pattern Recognition,track_600 level_1
+Student_122,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_122,603,5,Computer Vision,track_600 level_3
+Student_122,604,4,Natural Language Processing,track_600 level_4
+Student_122,801,5,Networking Fundamentals,track_800 level_1
+Student_122,802,3,Routing & Switching,track_800 level_2
+Student_122,803,5,Network Security,track_800 level_3
+Student_122,901,5,Database Management Systems,track_900 level_1
+Student_122,902,3,Big Data Technologies,track_900 level_2
+Student_122,903,5,Data Warehousing,track_900 level_3
+Student_122,904,3,ETL Pipeline Design,track_900 level_4
+Student_123,301,4,Electricity and Magnetism,track_300 level_1
+Student_123,302,5,Semiconductor Physics,track_300 level_2
+Student_123,303,4,Optoelectronics,track_300 level_3
+Student_123,401,3,Microprocessor Architecture,track_400 level_1
+Student_123,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_123,403,5,Hardware Description Languages (HDL),track_400 level_3
+Student_123,404,5,System on Chip (SoC) Design,track_400 level_4
+Student_123,601,4,Pattern Recognition,track_600 level_1
+Student_123,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_123,603,3,Computer Vision,track_600 level_3
+Student_123,604,5,Natural Language Processing,track_600 level_4
+Student_123,701,4,Communication Theory,track_700 level_1
+Student_123,702,3,Digital Signal Processing (DSP),track_700 level_2
+Student_123,703,5,Wireless Communication,track_700 level_3
+Student_123,704,3,Information Theory & Coding,track_700 level_4
+Student_123,801,4,Networking Fundamentals,track_800 level_1
+Student_123,802,4,Routing & Switching,track_800 level_2
+Student_123,803,3,Network Security,track_800 level_3
+Student_123,804,3,Software Defined Networking (SDN),track_800 level_4
+Student_124,111,5,Electric Circuits Analysis,track_110 level_1
+Student_124,112,5,Electronic Devices,track_110 level_2
+Student_124,113,3,Power Systems Engineering,track_110 level_3
+Student_124,114,4,Renewable Energy Systems,track_110 level_4
+Student_124,201,4,Object-Oriented Programming,track_200 level_1
+Student_124,202,5,Data Structures & Algorithms,track_200 level_2
+Student_124,203,5,Software Architecture,track_200 level_3
+Student_124,204,5,Cloud-Native Development,track_200 level_4
+Student_124,501,3,Classical Control Theory,track_500 level_1
+Student_124,502,3,Modern Digital Control,track_500 level_2
+Student_124,503,3,Robotics & Kinematics,track_500 level_3
+Student_124,504,5,Adaptive Control Systems,track_500 level_4
+Student_124,601,3,Pattern Recognition,track_600 level_1
+Student_124,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_124,603,5,Computer Vision,track_600 level_3
+Student_124,801,5,Networking Fundamentals,track_800 level_1
+Student_124,802,5,Routing & Switching,track_800 level_2
+Student_124,803,5,Network Security,track_800 level_3
+Student_124,804,4,Software Defined Networking (SDN),track_800 level_4
+Student_124,901,4,Database Management Systems,track_900 level_1
+Student_124,902,4,Big Data Technologies,track_900 level_2
+Student_124,903,4,Data Warehousing,track_900 level_3
+Student_125,111,5,Electric Circuits Analysis,track_110 level_1
+Student_125,112,5,Electronic Devices,track_110 level_2
+Student_125,113,4,Power Systems Engineering,track_110 level_3
+Student_125,601,3,Pattern Recognition,track_600 level_1
+Student_125,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_125,603,5,Computer Vision,track_600 level_3
+Student_125,604,4,Natural Language Processing,track_600 level_4
+Student_125,701,3,Communication Theory,track_700 level_1
+Student_125,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_125,703,4,Wireless Communication,track_700 level_3
+Student_125,704,3,Information Theory & Coding,track_700 level_4
+Student_126,111,4,Electric Circuits Analysis,track_110 level_1
+Student_126,112,5,Electronic Devices,track_110 level_2
+Student_126,113,5,Power Systems Engineering,track_110 level_3
+Student_126,201,3,Object-Oriented Programming,track_200 level_1
+Student_126,202,5,Data Structures & Algorithms,track_200 level_2
+Student_126,203,3,Software Architecture,track_200 level_3
+Student_126,204,4,Cloud-Native Development,track_200 level_4
+Student_126,701,4,Communication Theory,track_700 level_1
+Student_126,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_126,703,3,Wireless Communication,track_700 level_3
+Student_126,901,4,Database Management Systems,track_900 level_1
+Student_126,902,4,Big Data Technologies,track_900 level_2
+Student_126,903,5,Data Warehousing,track_900 level_3
+Student_126,904,4,ETL Pipeline Design,track_900 level_4
+Student_127,101,4,Linear Algebra,track_100 level_1
+Student_127,102,5,Numerical Analysis,track_100 level_2
+Student_127,103,5,Probability & Statistics,track_100 level_3
+Student_127,301,4,Electricity and Magnetism,track_300 level_1
+Student_127,302,3,Semiconductor Physics,track_300 level_2
+Student_127,303,4,Optoelectronics,track_300 level_3
+Student_127,304,4,Quantum Computing Basics,track_300 level_4
+Student_127,801,3,Networking Fundamentals,track_800 level_1
+Student_127,802,3,Routing & Switching,track_800 level_2
+Student_127,803,3,Network Security,track_800 level_3
+Student_127,901,4,Database Management Systems,track_900 level_1
+Student_127,902,4,Big Data Technologies,track_900 level_2
+Student_127,903,5,Data Warehousing,track_900 level_3
+Student_128,101,4,Linear Algebra,track_100 level_1
+Student_128,102,3,Numerical Analysis,track_100 level_2
+Student_128,103,5,Probability & Statistics,track_100 level_3
+Student_128,201,5,Object-Oriented Programming,track_200 level_1
+Student_128,202,3,Data Structures & Algorithms,track_200 level_2
+Student_128,203,5,Software Architecture,track_200 level_3
+Student_128,204,4,Cloud-Native Development,track_200 level_4
+Student_128,401,5,Microprocessor Architecture,track_400 level_1
+Student_128,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_128,403,4,Hardware Description Languages (HDL),track_400 level_3
+Student_128,404,4,System on Chip (SoC) Design,track_400 level_4
+Student_128,501,4,Classical Control Theory,track_500 level_1
+Student_128,502,5,Modern Digital Control,track_500 level_2
+Student_128,503,4,Robotics & Kinematics,track_500 level_3
+Student_128,601,5,Pattern Recognition,track_600 level_1
+Student_128,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_128,603,4,Computer Vision,track_600 level_3
+Student_128,604,3,Natural Language Processing,track_600 level_4
+Student_128,801,3,Networking Fundamentals,track_800 level_1
+Student_128,802,3,Routing & Switching,track_800 level_2
+Student_128,803,4,Network Security,track_800 level_3
+Student_128,804,4,Software Defined Networking (SDN),track_800 level_4
+Student_129,101,5,Linear Algebra,track_100 level_1
+Student_129,102,5,Numerical Analysis,track_100 level_2
+Student_129,103,4,Probability & Statistics,track_100 level_3
+Student_129,201,5,Object-Oriented Programming,track_200 level_1
+Student_129,202,3,Data Structures & Algorithms,track_200 level_2
+Student_129,203,5,Software Architecture,track_200 level_3
+Student_129,301,5,Electricity and Magnetism,track_300 level_1
+Student_129,302,4,Semiconductor Physics,track_300 level_2
+Student_129,303,4,Optoelectronics,track_300 level_3
+Student_129,801,5,Networking Fundamentals,track_800 level_1
+Student_129,802,4,Routing & Switching,track_800 level_2
+Student_129,803,4,Network Security,track_800 level_3
+Student_13,301,3,Electricity and Magnetism,track_300 level_1
+Student_13,401,5,Microprocessor Architecture,track_400 level_1
+Student_13,601,3,Pattern Recognition,track_600 level_1
+Student_13,701,3,Communication Theory,track_700 level_1
+Student_13,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_13,801,5,Networking Fundamentals,track_800 level_1
+Student_13,802,5,Routing & Switching,track_800 level_2
+Student_13,901,4,Database Management Systems,track_900 level_1
+Student_13,902,4,Big Data Technologies,track_900 level_2
+Student_130,111,3,Electric Circuits Analysis,track_110 level_1
+Student_130,112,4,Electronic Devices,track_110 level_2
+Student_130,113,5,Power Systems Engineering,track_110 level_3
+Student_130,114,5,Renewable Energy Systems,track_110 level_4
+Student_130,801,5,Networking Fundamentals,track_800 level_1
+Student_130,802,4,Routing & Switching,track_800 level_2
+Student_130,803,4,Network Security,track_800 level_3
+Student_130,804,3,Software Defined Networking (SDN),track_800 level_4
+Student_130,901,5,Database Management Systems,track_900 level_1
+Student_130,902,3,Big Data Technologies,track_900 level_2
+Student_130,903,3,Data Warehousing,track_900 level_3
+Student_130,904,3,ETL Pipeline Design,track_900 level_4
+Student_131,111,4,Electric Circuits Analysis,track_110 level_1
+Student_131,112,4,Electronic Devices,track_110 level_2
+Student_131,113,5,Power Systems Engineering,track_110 level_3
+Student_131,114,5,Renewable Energy Systems,track_110 level_4
+Student_131,301,3,Electricity and Magnetism,track_300 level_1
+Student_131,302,4,Semiconductor Physics,track_300 level_2
+Student_131,303,3,Optoelectronics,track_300 level_3
+Student_131,401,5,Microprocessor Architecture,track_400 level_1
+Student_131,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_131,403,4,Hardware Description Languages (HDL),track_400 level_3
+Student_131,404,5,System on Chip (SoC) Design,track_400 level_4
+Student_131,501,3,Classical Control Theory,track_500 level_1
+Student_131,502,5,Modern Digital Control,track_500 level_2
+Student_131,503,3,Robotics & Kinematics,track_500 level_3
+Student_131,801,4,Networking Fundamentals,track_800 level_1
+Student_131,802,3,Routing & Switching,track_800 level_2
+Student_131,803,3,Network Security,track_800 level_3
+Student_131,804,3,Software Defined Networking (SDN),track_800 level_4
+Student_132,301,3,Electricity and Magnetism,track_300 level_1
+Student_132,302,5,Semiconductor Physics,track_300 level_2
+Student_132,303,4,Optoelectronics,track_300 level_3
+Student_132,401,4,Microprocessor Architecture,track_400 level_1
+Student_132,402,5,Real-Time Systems (RTOS),track_400 level_2
+Student_132,403,3,Hardware Description Languages (HDL),track_400 level_3
+Student_132,404,4,System on Chip (SoC) Design,track_400 level_4
+Student_132,901,5,Database Management Systems,track_900 level_1
+Student_132,902,3,Big Data Technologies,track_900 level_2
+Student_132,903,3,Data Warehousing,track_900 level_3
+Student_133,901,5,Database Management Systems,track_900 level_1
+Student_133,902,4,Big Data Technologies,track_900 level_2
+Student_133,903,3,Data Warehousing,track_900 level_3
+Student_14,201,3,Object-Oriented Programming,track_200 level_1
+Student_14,202,3,Data Structures & Algorithms,track_200 level_2
+Student_14,301,5,Electricity and Magnetism,track_300 level_1
+Student_14,302,4,Semiconductor Physics,track_300 level_2
+Student_14,601,3,Pattern Recognition,track_600 level_1
+Student_14,801,3,Networking Fundamentals,track_800 level_1
+Student_14,802,5,Routing & Switching,track_800 level_2
+Student_15,101,3,Linear Algebra,track_100 level_1
+Student_15,301,3,Electricity and Magnetism,track_300 level_1
+Student_15,302,5,Semiconductor Physics,track_300 level_2
+Student_15,801,4,Networking Fundamentals,track_800 level_1
+Student_15,802,3,Routing & Switching,track_800 level_2
+Student_15,901,3,Database Management Systems,track_900 level_1
+Student_16,201,5,Object-Oriented Programming,track_200 level_1
+Student_16,202,4,Data Structures & Algorithms,track_200 level_2
+Student_16,501,3,Classical Control Theory,track_500 level_1
+Student_16,502,5,Modern Digital Control,track_500 level_2
+Student_16,601,3,Pattern Recognition,track_600 level_1
+Student_16,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_16,801,3,Networking Fundamentals,track_800 level_1
+Student_16,802,3,Routing & Switching,track_800 level_2
+Student_17,101,3,Linear Algebra,track_100 level_1
+Student_17,102,3,Numerical Analysis,track_100 level_2
+Student_17,401,3,Microprocessor Architecture,track_400 level_1
+Student_17,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_17,601,3,Pattern Recognition,track_600 level_1
+Student_18,111,5,Electric Circuits Analysis,track_110 level_1
+Student_18,112,4,Electronic Devices,track_110 level_2
+Student_18,301,4,Electricity and Magnetism,track_300 level_1
+Student_18,302,3,Semiconductor Physics,track_300 level_2
+Student_18,501,5,Classical Control Theory,track_500 level_1
+Student_18,601,3,Pattern Recognition,track_600 level_1
+Student_18,701,5,Communication Theory,track_700 level_1
+Student_18,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_19,111,4,Electric Circuits Analysis,track_110 level_1
+Student_19,201,3,Object-Oriented Programming,track_200 level_1
+Student_19,301,5,Electricity and Magnetism,track_300 level_1
+Student_19,302,3,Semiconductor Physics,track_300 level_2
+Student_19,501,3,Classical Control Theory,track_500 level_1
+Student_19,502,4,Modern Digital Control,track_500 level_2
+Student_19,601,5,Pattern Recognition,track_600 level_1
+Student_2,401,5,Microprocessor Architecture,track_400 level_1
+Student_2,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_2,601,3,Pattern Recognition,track_600 level_1
+Student_2,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_2,701,3,Communication Theory,track_700 level_1
+Student_2,702,3,Digital Signal Processing (DSP),track_700 level_2
+Student_2,901,5,Database Management Systems,track_900 level_1
+Student_2,902,5,Big Data Technologies,track_900 level_2
+Student_20,111,5,Electric Circuits Analysis,track_110 level_1
+Student_20,301,5,Electricity and Magnetism,track_300 level_1
+Student_20,401,4,Microprocessor Architecture,track_400 level_1
+Student_20,501,5,Classical Control Theory,track_500 level_1
+Student_20,601,4,Pattern Recognition,track_600 level_1
+Student_20,801,4,Networking Fundamentals,track_800 level_1
+Student_20,802,3,Routing & Switching,track_800 level_2
+Student_21,201,4,Object-Oriented Programming,track_200 level_1
+Student_21,301,5,Electricity and Magnetism,track_300 level_1
+Student_21,302,5,Semiconductor Physics,track_300 level_2
+Student_21,601,3,Pattern Recognition,track_600 level_1
+Student_21,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_21,901,3,Database Management Systems,track_900 level_1
+Student_22,111,3,Electric Circuits Analysis,track_110 level_1
+Student_22,401,4,Microprocessor Architecture,track_400 level_1
+Student_22,601,3,Pattern Recognition,track_600 level_1
+Student_22,801,3,Networking Fundamentals,track_800 level_1
+Student_22,802,5,Routing & Switching,track_800 level_2
+Student_22,901,3,Database Management Systems,track_900 level_1
+Student_22,902,3,Big Data Technologies,track_900 level_2
+Student_23,111,3,Electric Circuits Analysis,track_110 level_1
+Student_23,201,4,Object-Oriented Programming,track_200 level_1
+Student_23,301,3,Electricity and Magnetism,track_300 level_1
+Student_23,701,5,Communication Theory,track_700 level_1
+Student_23,801,4,Networking Fundamentals,track_800 level_1
+Student_23,802,4,Routing & Switching,track_800 level_2
+Student_23,901,3,Database Management Systems,track_900 level_1
+Student_24,101,4,Linear Algebra,track_100 level_1
+Student_24,111,5,Electric Circuits Analysis,track_110 level_1
+Student_24,112,3,Electronic Devices,track_110 level_2
+Student_24,201,4,Object-Oriented Programming,track_200 level_1
+Student_24,202,5,Data Structures & Algorithms,track_200 level_2
+Student_24,401,3,Microprocessor Architecture,track_400 level_1
+Student_24,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_24,601,3,Pattern Recognition,track_600 level_1
+Student_24,602,4,Neural Networks & Deep Learning,track_600 level_2
+Student_24,801,3,Networking Fundamentals,track_800 level_1
+Student_25,101,5,Linear Algebra,track_100 level_1
+Student_25,111,3,Electric Circuits Analysis,track_110 level_1
+Student_25,112,5,Electronic Devices,track_110 level_2
+Student_25,301,4,Electricity and Magnetism,track_300 level_1
+Student_25,801,5,Networking Fundamentals,track_800 level_1
+Student_26,101,5,Linear Algebra,track_100 level_1
+Student_26,102,4,Numerical Analysis,track_100 level_2
+Student_26,111,3,Electric Circuits Analysis,track_110 level_1
+Student_26,401,4,Microprocessor Architecture,track_400 level_1
+Student_26,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_26,501,3,Classical Control Theory,track_500 level_1
+Student_26,502,4,Modern Digital Control,track_500 level_2
+Student_26,801,4,Networking Fundamentals,track_800 level_1
+Student_26,802,4,Routing & Switching,track_800 level_2
+Student_26,901,4,Database Management Systems,track_900 level_1
+Student_27,111,5,Electric Circuits Analysis,track_110 level_1
+Student_27,112,5,Electronic Devices,track_110 level_2
+Student_27,401,3,Microprocessor Architecture,track_400 level_1
+Student_27,402,5,Real-Time Systems (RTOS),track_400 level_2
+Student_27,501,4,Classical Control Theory,track_500 level_1
+Student_27,801,3,Networking Fundamentals,track_800 level_1
+Student_28,201,3,Object-Oriented Programming,track_200 level_1
+Student_28,202,3,Data Structures & Algorithms,track_200 level_2
+Student_28,601,4,Pattern Recognition,track_600 level_1
+Student_28,901,4,Database Management Systems,track_900 level_1
+Student_28,902,4,Big Data Technologies,track_900 level_2
+Student_29,101,3,Linear Algebra,track_100 level_1
+Student_29,102,5,Numerical Analysis,track_100 level_2
+Student_29,111,3,Electric Circuits Analysis,track_110 level_1
+Student_29,201,3,Object-Oriented Programming,track_200 level_1
+Student_29,301,5,Electricity and Magnetism,track_300 level_1
+Student_3,201,3,Object-Oriented Programming,track_200 level_1
+Student_3,202,5,Data Structures & Algorithms,track_200 level_2
+Student_3,301,4,Electricity and Magnetism,track_300 level_1
+Student_3,302,5,Semiconductor Physics,track_300 level_2
+Student_3,601,3,Pattern Recognition,track_600 level_1
+Student_3,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_3,701,3,Communication Theory,track_700 level_1
+Student_3,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_3,801,3,Networking Fundamentals,track_800 level_1
+Student_3,802,4,Routing & Switching,track_800 level_2
+Student_30,101,5,Linear Algebra,track_100 level_1
+Student_30,102,4,Numerical Analysis,track_100 level_2
+Student_30,111,3,Electric Circuits Analysis,track_110 level_1
+Student_30,201,4,Object-Oriented Programming,track_200 level_1
+Student_30,401,4,Microprocessor Architecture,track_400 level_1
+Student_30,601,4,Pattern Recognition,track_600 level_1
+Student_30,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_30,901,4,Database Management Systems,track_900 level_1
+Student_30,902,4,Big Data Technologies,track_900 level_2
+Student_31,101,4,Linear Algebra,track_100 level_1
+Student_31,102,5,Numerical Analysis,track_100 level_2
+Student_31,111,4,Electric Circuits Analysis,track_110 level_1
+Student_31,112,4,Electronic Devices,track_110 level_2
+Student_31,301,3,Electricity and Magnetism,track_300 level_1
+Student_31,401,5,Microprocessor Architecture,track_400 level_1
+Student_31,402,5,Real-Time Systems (RTOS),track_400 level_2
+Student_31,901,3,Database Management Systems,track_900 level_1
+Student_32,111,4,Electric Circuits Analysis,track_110 level_1
+Student_32,401,5,Microprocessor Architecture,track_400 level_1
+Student_32,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_32,701,3,Communication Theory,track_700 level_1
+Student_33,101,4,Linear Algebra,track_100 level_1
+Student_33,102,5,Numerical Analysis,track_100 level_2
+Student_33,301,3,Electricity and Magnetism,track_300 level_1
+Student_33,701,3,Communication Theory,track_700 level_1
+Student_34,101,3,Linear Algebra,track_100 level_1
+Student_34,102,4,Numerical Analysis,track_100 level_2
+Student_34,201,3,Object-Oriented Programming,track_200 level_1
+Student_34,202,5,Data Structures & Algorithms,track_200 level_2
+Student_34,901,5,Database Management Systems,track_900 level_1
+Student_35,101,4,Linear Algebra,track_100 level_1
+Student_35,301,3,Electricity and Magnetism,track_300 level_1
+Student_35,401,3,Microprocessor Architecture,track_400 level_1
+Student_35,601,3,Pattern Recognition,track_600 level_1
+Student_35,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_35,701,3,Communication Theory,track_700 level_1
+Student_35,801,3,Networking Fundamentals,track_800 level_1
+Student_36,301,3,Electricity and Magnetism,track_300 level_1
+Student_36,302,3,Semiconductor Physics,track_300 level_2
+Student_36,401,5,Microprocessor Architecture,track_400 level_1
+Student_36,601,3,Pattern Recognition,track_600 level_1
+Student_36,701,3,Communication Theory,track_700 level_1
+Student_36,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_37,101,4,Linear Algebra,track_100 level_1
+Student_37,102,4,Numerical Analysis,track_100 level_2
+Student_37,111,4,Electric Circuits Analysis,track_110 level_1
+Student_37,201,4,Object-Oriented Programming,track_200 level_1
+Student_37,401,3,Microprocessor Architecture,track_400 level_1
+Student_37,601,5,Pattern Recognition,track_600 level_1
+Student_37,701,3,Communication Theory,track_700 level_1
+Student_37,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_38,111,4,Electric Circuits Analysis,track_110 level_1
+Student_38,112,4,Electronic Devices,track_110 level_2
+Student_38,301,4,Electricity and Magnetism,track_300 level_1
+Student_38,501,5,Classical Control Theory,track_500 level_1
+Student_38,502,4,Modern Digital Control,track_500 level_2
+Student_38,701,3,Communication Theory,track_700 level_1
+Student_38,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_39,101,4,Linear Algebra,track_100 level_1
+Student_39,102,3,Numerical Analysis,track_100 level_2
+Student_39,301,3,Electricity and Magnetism,track_300 level_1
+Student_39,401,3,Microprocessor Architecture,track_400 level_1
+Student_39,501,3,Classical Control Theory,track_500 level_1
+Student_39,502,5,Modern Digital Control,track_500 level_2
+Student_39,601,4,Pattern Recognition,track_600 level_1
+Student_39,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_4,101,3,Linear Algebra,track_100 level_1
+Student_4,111,5,Electric Circuits Analysis,track_110 level_1
+Student_4,112,5,Electronic Devices,track_110 level_2
+Student_4,201,5,Object-Oriented Programming,track_200 level_1
+Student_4,601,4,Pattern Recognition,track_600 level_1
+Student_4,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_4,801,5,Networking Fundamentals,track_800 level_1
+Student_40,201,4,Object-Oriented Programming,track_200 level_1
+Student_40,301,5,Electricity and Magnetism,track_300 level_1
+Student_40,401,3,Microprocessor Architecture,track_400 level_1
+Student_40,501,5,Classical Control Theory,track_500 level_1
+Student_40,502,3,Modern Digital Control,track_500 level_2
+Student_40,701,4,Communication Theory,track_700 level_1
+Student_40,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_40,901,5,Database Management Systems,track_900 level_1
+Student_41,111,4,Electric Circuits Analysis,track_110 level_1
+Student_41,112,4,Electronic Devices,track_110 level_2
+Student_41,401,5,Microprocessor Architecture,track_400 level_1
+Student_41,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_41,801,5,Networking Fundamentals,track_800 level_1
+Student_41,901,5,Database Management Systems,track_900 level_1
+Student_42,111,4,Electric Circuits Analysis,track_110 level_1
+Student_42,601,5,Pattern Recognition,track_600 level_1
+Student_42,801,3,Networking Fundamentals,track_800 level_1
+Student_43,111,4,Electric Circuits Analysis,track_110 level_1
+Student_43,112,4,Electronic Devices,track_110 level_2
+Student_43,201,3,Object-Oriented Programming,track_200 level_1
+Student_43,202,4,Data Structures & Algorithms,track_200 level_2
+Student_43,301,4,Electricity and Magnetism,track_300 level_1
+Student_43,302,4,Semiconductor Physics,track_300 level_2
+Student_43,401,5,Microprocessor Architecture,track_400 level_1
+Student_43,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_43,701,4,Communication Theory,track_700 level_1
+Student_43,901,4,Database Management Systems,track_900 level_1
+Student_43,902,5,Big Data Technologies,track_900 level_2
+Student_44,101,4,Linear Algebra,track_100 level_1
+Student_44,111,4,Electric Circuits Analysis,track_110 level_1
+Student_44,401,5,Microprocessor Architecture,track_400 level_1
+Student_44,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_44,501,5,Classical Control Theory,track_500 level_1
+Student_44,901,4,Database Management Systems,track_900 level_1
+Student_45,111,5,Electric Circuits Analysis,track_110 level_1
+Student_45,112,4,Electronic Devices,track_110 level_2
+Student_45,201,4,Object-Oriented Programming,track_200 level_1
+Student_45,301,5,Electricity and Magnetism,track_300 level_1
+Student_45,501,3,Classical Control Theory,track_500 level_1
+Student_45,502,4,Modern Digital Control,track_500 level_2
+Student_45,701,5,Communication Theory,track_700 level_1
+Student_45,901,3,Database Management Systems,track_900 level_1
+Student_45,902,5,Big Data Technologies,track_900 level_2
+Student_46,401,3,Microprocessor Architecture,track_400 level_1
+Student_46,501,4,Classical Control Theory,track_500 level_1
+Student_46,901,5,Database Management Systems,track_900 level_1
+Student_46,902,5,Big Data Technologies,track_900 level_2
+Student_47,111,3,Electric Circuits Analysis,track_110 level_1
+Student_47,201,5,Object-Oriented Programming,track_200 level_1
+Student_47,202,4,Data Structures & Algorithms,track_200 level_2
+Student_47,401,3,Microprocessor Architecture,track_400 level_1
+Student_47,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_47,601,5,Pattern Recognition,track_600 level_1
+Student_47,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_47,801,5,Networking Fundamentals,track_800 level_1
+Student_47,802,3,Routing & Switching,track_800 level_2
+Student_48,201,4,Object-Oriented Programming,track_200 level_1
+Student_48,501,3,Classical Control Theory,track_500 level_1
+Student_48,502,5,Modern Digital Control,track_500 level_2
+Student_48,601,5,Pattern Recognition,track_600 level_1
+Student_48,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_48,701,5,Communication Theory,track_700 level_1
+Student_48,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_48,901,4,Database Management Systems,track_900 level_1
+Student_49,111,5,Electric Circuits Analysis,track_110 level_1
+Student_49,401,5,Microprocessor Architecture,track_400 level_1
+Student_49,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_49,501,5,Classical Control Theory,track_500 level_1
+Student_49,502,3,Modern Digital Control,track_500 level_2
+Student_49,601,5,Pattern Recognition,track_600 level_1
+Student_49,602,4,Neural Networks & Deep Learning,track_600 level_2
+Student_49,701,3,Communication Theory,track_700 level_1
+Student_49,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_5,101,4,Linear Algebra,track_100 level_1
+Student_5,111,5,Electric Circuits Analysis,track_110 level_1
+Student_5,201,4,Object-Oriented Programming,track_200 level_1
+Student_5,202,3,Data Structures & Algorithms,track_200 level_2
+Student_5,301,4,Electricity and Magnetism,track_300 level_1
+Student_5,701,5,Communication Theory,track_700 level_1
+Student_5,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_50,101,4,Linear Algebra,track_100 level_1
+Student_50,102,3,Numerical Analysis,track_100 level_2
+Student_50,201,4,Object-Oriented Programming,track_200 level_1
+Student_50,202,4,Data Structures & Algorithms,track_200 level_2
+Student_50,401,4,Microprocessor Architecture,track_400 level_1
+Student_50,501,3,Classical Control Theory,track_500 level_1
+Student_50,601,5,Pattern Recognition,track_600 level_1
+Student_50,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_50,701,5,Communication Theory,track_700 level_1
+Student_51,101,3,Linear Algebra,track_100 level_1
+Student_51,111,5,Electric Circuits Analysis,track_110 level_1
+Student_51,301,5,Electricity and Magnetism,track_300 level_1
+Student_51,302,5,Semiconductor Physics,track_300 level_2
+Student_51,501,3,Classical Control Theory,track_500 level_1
+Student_51,502,4,Modern Digital Control,track_500 level_2
+Student_51,701,4,Communication Theory,track_700 level_1
+Student_51,901,3,Database Management Systems,track_900 level_1
+Student_52,111,4,Electric Circuits Analysis,track_110 level_1
+Student_52,112,4,Electronic Devices,track_110 level_2
+Student_52,201,4,Object-Oriented Programming,track_200 level_1
+Student_52,202,3,Data Structures & Algorithms,track_200 level_2
+Student_52,301,5,Electricity and Magnetism,track_300 level_1
+Student_52,302,5,Semiconductor Physics,track_300 level_2
+Student_52,501,5,Classical Control Theory,track_500 level_1
+Student_52,701,4,Communication Theory,track_700 level_1
+Student_52,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_52,901,3,Database Management Systems,track_900 level_1
+Student_53,201,3,Object-Oriented Programming,track_200 level_1
+Student_53,202,3,Data Structures & Algorithms,track_200 level_2
+Student_53,501,5,Classical Control Theory,track_500 level_1
+Student_53,801,5,Networking Fundamentals,track_800 level_1
+Student_53,901,3,Database Management Systems,track_900 level_1
+Student_54,101,5,Linear Algebra,track_100 level_1
+Student_54,102,3,Numerical Analysis,track_100 level_2
+Student_54,111,4,Electric Circuits Analysis,track_110 level_1
+Student_54,112,3,Electronic Devices,track_110 level_2
+Student_54,201,3,Object-Oriented Programming,track_200 level_1
+Student_54,202,3,Data Structures & Algorithms,track_200 level_2
+Student_54,501,4,Classical Control Theory,track_500 level_1
+Student_54,701,5,Communication Theory,track_700 level_1
+Student_54,901,3,Database Management Systems,track_900 level_1
+Student_54,902,3,Big Data Technologies,track_900 level_2
+Student_55,301,3,Electricity and Magnetism,track_300 level_1
+Student_55,302,5,Semiconductor Physics,track_300 level_2
+Student_55,401,3,Microprocessor Architecture,track_400 level_1
+Student_55,501,4,Classical Control Theory,track_500 level_1
+Student_55,502,3,Modern Digital Control,track_500 level_2
+Student_55,701,5,Communication Theory,track_700 level_1
+Student_55,801,5,Networking Fundamentals,track_800 level_1
+Student_55,802,3,Routing & Switching,track_800 level_2
+Student_55,901,4,Database Management Systems,track_900 level_1
+Student_56,101,3,Linear Algebra,track_100 level_1
+Student_56,111,4,Electric Circuits Analysis,track_110 level_1
+Student_56,201,5,Object-Oriented Programming,track_200 level_1
+Student_56,301,5,Electricity and Magnetism,track_300 level_1
+Student_56,302,3,Semiconductor Physics,track_300 level_2
+Student_56,501,5,Classical Control Theory,track_500 level_1
+Student_56,502,5,Modern Digital Control,track_500 level_2
+Student_56,601,5,Pattern Recognition,track_600 level_1
+Student_57,101,5,Linear Algebra,track_100 level_1
+Student_57,102,5,Numerical Analysis,track_100 level_2
+Student_57,301,5,Electricity and Magnetism,track_300 level_1
+Student_57,501,3,Classical Control Theory,track_500 level_1
+Student_57,601,4,Pattern Recognition,track_600 level_1
+Student_57,901,4,Database Management Systems,track_900 level_1
+Student_57,902,3,Big Data Technologies,track_900 level_2
+Student_58,101,3,Linear Algebra,track_100 level_1
+Student_58,201,5,Object-Oriented Programming,track_200 level_1
+Student_58,202,4,Data Structures & Algorithms,track_200 level_2
+Student_58,301,4,Electricity and Magnetism,track_300 level_1
+Student_58,302,3,Semiconductor Physics,track_300 level_2
+Student_58,601,5,Pattern Recognition,track_600 level_1
+Student_58,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_59,111,5,Electric Circuits Analysis,track_110 level_1
+Student_59,112,3,Electronic Devices,track_110 level_2
+Student_59,401,3,Microprocessor Architecture,track_400 level_1
+Student_59,501,3,Classical Control Theory,track_500 level_1
+Student_59,801,3,Networking Fundamentals,track_800 level_1
+Student_59,802,5,Routing & Switching,track_800 level_2
+Student_59,901,4,Database Management Systems,track_900 level_1
+Student_59,902,4,Big Data Technologies,track_900 level_2
+Student_6,101,3,Linear Algebra,track_100 level_1
+Student_6,201,5,Object-Oriented Programming,track_200 level_1
+Student_6,202,5,Data Structures & Algorithms,track_200 level_2
+Student_6,801,5,Networking Fundamentals,track_800 level_1
+Student_6,802,4,Routing & Switching,track_800 level_2
+Student_60,401,5,Microprocessor Architecture,track_400 level_1
+Student_60,701,3,Communication Theory,track_700 level_1
+Student_60,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_60,901,3,Database Management Systems,track_900 level_1
+Student_60,902,3,Big Data Technologies,track_900 level_2
+Student_61,501,3,Classical Control Theory,track_500 level_1
+Student_61,502,3,Modern Digital Control,track_500 level_2
+Student_61,801,3,Networking Fundamentals,track_800 level_1
+Student_61,802,3,Routing & Switching,track_800 level_2
+Student_61,901,4,Database Management Systems,track_900 level_1
+Student_62,301,4,Electricity and Magnetism,track_300 level_1
+Student_62,302,3,Semiconductor Physics,track_300 level_2
+Student_62,401,3,Microprocessor Architecture,track_400 level_1
+Student_62,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_62,601,5,Pattern Recognition,track_600 level_1
+Student_62,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_62,701,3,Communication Theory,track_700 level_1
+Student_62,901,5,Database Management Systems,track_900 level_1
+Student_62,902,3,Big Data Technologies,track_900 level_2
+Student_63,301,5,Electricity and Magnetism,track_300 level_1
+Student_63,302,3,Semiconductor Physics,track_300 level_2
+Student_63,501,3,Classical Control Theory,track_500 level_1
+Student_63,502,4,Modern Digital Control,track_500 level_2
+Student_63,901,3,Database Management Systems,track_900 level_1
+Student_63,902,3,Big Data Technologies,track_900 level_2
+Student_64,101,3,Linear Algebra,track_100 level_1
+Student_64,301,5,Electricity and Magnetism,track_300 level_1
+Student_64,501,3,Classical Control Theory,track_500 level_1
+Student_64,701,5,Communication Theory,track_700 level_1
+Student_64,801,3,Networking Fundamentals,track_800 level_1
+Student_64,901,5,Database Management Systems,track_900 level_1
+Student_65,111,3,Electric Circuits Analysis,track_110 level_1
+Student_65,401,3,Microprocessor Architecture,track_400 level_1
+Student_65,501,5,Classical Control Theory,track_500 level_1
+Student_65,502,4,Modern Digital Control,track_500 level_2
+Student_65,701,4,Communication Theory,track_700 level_1
+Student_65,801,4,Networking Fundamentals,track_800 level_1
+Student_65,802,4,Routing & Switching,track_800 level_2
+Student_65,901,4,Database Management Systems,track_900 level_1
+Student_66,111,4,Electric Circuits Analysis,track_110 level_1
+Student_66,301,4,Electricity and Magnetism,track_300 level_1
+Student_66,501,5,Classical Control Theory,track_500 level_1
+Student_66,601,5,Pattern Recognition,track_600 level_1
+Student_66,701,5,Communication Theory,track_700 level_1
+Student_66,801,3,Networking Fundamentals,track_800 level_1
+Student_67,111,5,Electric Circuits Analysis,track_110 level_1
+Student_67,112,3,Electronic Devices,track_110 level_2
+Student_67,301,4,Electricity and Magnetism,track_300 level_1
+Student_67,302,5,Semiconductor Physics,track_300 level_2
+Student_67,601,5,Pattern Recognition,track_600 level_1
+Student_67,701,3,Communication Theory,track_700 level_1
+Student_67,801,4,Networking Fundamentals,track_800 level_1
+Student_68,201,4,Object-Oriented Programming,track_200 level_1
+Student_68,501,4,Classical Control Theory,track_500 level_1
+Student_68,601,5,Pattern Recognition,track_600 level_1
+Student_69,401,5,Microprocessor Architecture,track_400 level_1
+Student_69,402,5,Real-Time Systems (RTOS),track_400 level_2
+Student_69,701,3,Communication Theory,track_700 level_1
+Student_69,801,3,Networking Fundamentals,track_800 level_1
+Student_69,901,3,Database Management Systems,track_900 level_1
+Student_7,301,4,Electricity and Magnetism,track_300 level_1
+Student_7,302,5,Semiconductor Physics,track_300 level_2
+Student_7,501,5,Classical Control Theory,track_500 level_1
+Student_7,601,4,Pattern Recognition,track_600 level_1
+Student_7,901,4,Database Management Systems,track_900 level_1
+Student_70,101,4,Linear Algebra,track_100 level_1
+Student_70,201,4,Object-Oriented Programming,track_200 level_1
+Student_70,202,3,Data Structures & Algorithms,track_200 level_2
+Student_70,901,3,Database Management Systems,track_900 level_1
+Student_70,902,5,Big Data Technologies,track_900 level_2
+Student_71,101,4,Linear Algebra,track_100 level_1
+Student_71,102,5,Numerical Analysis,track_100 level_2
+Student_71,111,3,Electric Circuits Analysis,track_110 level_1
+Student_71,201,3,Object-Oriented Programming,track_200 level_1
+Student_71,301,4,Electricity and Magnetism,track_300 level_1
+Student_71,302,5,Semiconductor Physics,track_300 level_2
+Student_71,801,3,Networking Fundamentals,track_800 level_1
+Student_71,802,4,Routing & Switching,track_800 level_2
+Student_72,201,5,Object-Oriented Programming,track_200 level_1
+Student_72,401,3,Microprocessor Architecture,track_400 level_1
+Student_72,601,4,Pattern Recognition,track_600 level_1
+Student_72,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_73,101,3,Linear Algebra,track_100 level_1
+Student_73,111,4,Electric Circuits Analysis,track_110 level_1
+Student_73,901,5,Database Management Systems,track_900 level_1
+Student_74,401,4,Microprocessor Architecture,track_400 level_1
+Student_74,801,5,Networking Fundamentals,track_800 level_1
+Student_74,802,3,Routing & Switching,track_800 level_2
+Student_74,901,5,Database Management Systems,track_900 level_1
+Student_74,902,3,Big Data Technologies,track_900 level_2
+Student_75,101,5,Linear Algebra,track_100 level_1
+Student_75,102,3,Numerical Analysis,track_100 level_2
+Student_75,401,4,Microprocessor Architecture,track_400 level_1
+Student_75,501,3,Classical Control Theory,track_500 level_1
+Student_75,601,5,Pattern Recognition,track_600 level_1
+Student_75,801,5,Networking Fundamentals,track_800 level_1
+Student_75,901,3,Database Management Systems,track_900 level_1
+Student_76,111,5,Electric Circuits Analysis,track_110 level_1
+Student_76,112,4,Electronic Devices,track_110 level_2
+Student_76,601,3,Pattern Recognition,track_600 level_1
+Student_76,701,3,Communication Theory,track_700 level_1
+Student_76,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_76,801,3,Networking Fundamentals,track_800 level_1
+Student_76,802,5,Routing & Switching,track_800 level_2
+Student_77,401,4,Microprocessor Architecture,track_400 level_1
+Student_77,701,5,Communication Theory,track_700 level_1
+Student_77,702,3,Digital Signal Processing (DSP),track_700 level_2
+Student_77,901,4,Database Management Systems,track_900 level_1
+Student_77,902,3,Big Data Technologies,track_900 level_2
+Student_78,111,3,Electric Circuits Analysis,track_110 level_1
+Student_78,301,4,Electricity and Magnetism,track_300 level_1
+Student_78,302,3,Semiconductor Physics,track_300 level_2
+Student_78,401,5,Microprocessor Architecture,track_400 level_1
+Student_78,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_78,501,4,Classical Control Theory,track_500 level_1
+Student_78,601,3,Pattern Recognition,track_600 level_1
+Student_78,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_79,101,5,Linear Algebra,track_100 level_1
+Student_79,401,3,Microprocessor Architecture,track_400 level_1
+Student_79,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_79,601,5,Pattern Recognition,track_600 level_1
+Student_79,602,3,Neural Networks & Deep Learning,track_600 level_2
+Student_8,201,4,Object-Oriented Programming,track_200 level_1
+Student_8,301,5,Electricity and Magnetism,track_300 level_1
+Student_8,302,3,Semiconductor Physics,track_300 level_2
+Student_8,401,4,Microprocessor Architecture,track_400 level_1
+Student_8,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_8,701,3,Communication Theory,track_700 level_1
+Student_8,801,3,Networking Fundamentals,track_800 level_1
+Student_8,802,3,Routing & Switching,track_800 level_2
+Student_80,101,5,Linear Algebra,track_100 level_1
+Student_80,201,3,Object-Oriented Programming,track_200 level_1
+Student_80,202,5,Data Structures & Algorithms,track_200 level_2
+Student_80,401,5,Microprocessor Architecture,track_400 level_1
+Student_80,501,4,Classical Control Theory,track_500 level_1
+Student_80,502,4,Modern Digital Control,track_500 level_2
+Student_80,901,3,Database Management Systems,track_900 level_1
+Student_81,101,3,Linear Algebra,track_100 level_1
+Student_81,111,5,Electric Circuits Analysis,track_110 level_1
+Student_81,301,3,Electricity and Magnetism,track_300 level_1
+Student_81,501,5,Classical Control Theory,track_500 level_1
+Student_81,701,4,Communication Theory,track_700 level_1
+Student_81,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_82,111,5,Electric Circuits Analysis,track_110 level_1
+Student_82,112,4,Electronic Devices,track_110 level_2
+Student_82,301,4,Electricity and Magnetism,track_300 level_1
+Student_82,601,4,Pattern Recognition,track_600 level_1
+Student_82,801,3,Networking Fundamentals,track_800 level_1
+Student_82,802,3,Routing & Switching,track_800 level_2
+Student_82,901,5,Database Management Systems,track_900 level_1
+Student_83,111,3,Electric Circuits Analysis,track_110 level_1
+Student_83,112,3,Electronic Devices,track_110 level_2
+Student_83,301,3,Electricity and Magnetism,track_300 level_1
+Student_83,601,3,Pattern Recognition,track_600 level_1
+Student_83,701,5,Communication Theory,track_700 level_1
+Student_84,111,4,Electric Circuits Analysis,track_110 level_1
+Student_84,201,5,Object-Oriented Programming,track_200 level_1
+Student_84,301,3,Electricity and Magnetism,track_300 level_1
+Student_84,401,5,Microprocessor Architecture,track_400 level_1
+Student_84,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_84,601,3,Pattern Recognition,track_600 level_1
+Student_84,801,4,Networking Fundamentals,track_800 level_1
+Student_85,111,4,Electric Circuits Analysis,track_110 level_1
+Student_85,201,4,Object-Oriented Programming,track_200 level_1
+Student_85,202,3,Data Structures & Algorithms,track_200 level_2
+Student_85,401,5,Microprocessor Architecture,track_400 level_1
+Student_85,501,3,Classical Control Theory,track_500 level_1
+Student_85,701,5,Communication Theory,track_700 level_1
+Student_85,901,3,Database Management Systems,track_900 level_1
+Student_85,902,4,Big Data Technologies,track_900 level_2
+Student_86,201,4,Object-Oriented Programming,track_200 level_1
+Student_86,501,3,Classical Control Theory,track_500 level_1
+Student_86,901,5,Database Management Systems,track_900 level_1
+Student_86,902,4,Big Data Technologies,track_900 level_2
+Student_87,601,3,Pattern Recognition,track_600 level_1
+Student_87,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_87,701,4,Communication Theory,track_700 level_1
+Student_87,901,4,Database Management Systems,track_900 level_1
+Student_87,902,5,Big Data Technologies,track_900 level_2
+Student_88,301,4,Electricity and Magnetism,track_300 level_1
+Student_88,401,3,Microprocessor Architecture,track_400 level_1
+Student_88,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_88,501,4,Classical Control Theory,track_500 level_1
+Student_88,502,3,Modern Digital Control,track_500 level_2
+Student_88,801,4,Networking Fundamentals,track_800 level_1
+Student_88,802,5,Routing & Switching,track_800 level_2
+Student_89,101,3,Linear Algebra,track_100 level_1
+Student_89,111,3,Electric Circuits Analysis,track_110 level_1
+Student_89,201,5,Object-Oriented Programming,track_200 level_1
+Student_89,202,4,Data Structures & Algorithms,track_200 level_2
+Student_89,601,4,Pattern Recognition,track_600 level_1
+Student_89,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_9,111,3,Electric Circuits Analysis,track_110 level_1
+Student_9,112,4,Electronic Devices,track_110 level_2
+Student_9,401,5,Microprocessor Architecture,track_400 level_1
+Student_9,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_9,701,5,Communication Theory,track_700 level_1
+Student_9,702,3,Digital Signal Processing (DSP),track_700 level_2
+Student_90,101,4,Linear Algebra,track_100 level_1
+Student_90,401,5,Microprocessor Architecture,track_400 level_1
+Student_90,402,5,Real-Time Systems (RTOS),track_400 level_2
+Student_90,501,4,Classical Control Theory,track_500 level_1
+Student_90,502,3,Modern Digital Control,track_500 level_2
+Student_90,601,4,Pattern Recognition,track_600 level_1
+Student_90,701,4,Communication Theory,track_700 level_1
+Student_91,201,3,Object-Oriented Programming,track_200 level_1
+Student_91,501,4,Classical Control Theory,track_500 level_1
+Student_91,502,3,Modern Digital Control,track_500 level_2
+Student_91,601,5,Pattern Recognition,track_600 level_1
+Student_91,602,5,Neural Networks & Deep Learning,track_600 level_2
+Student_91,701,4,Communication Theory,track_700 level_1
+Student_92,101,5,Linear Algebra,track_100 level_1
+Student_92,102,5,Numerical Analysis,track_100 level_2
+Student_92,111,5,Electric Circuits Analysis,track_110 level_1
+Student_92,112,3,Electronic Devices,track_110 level_2
+Student_92,401,3,Microprocessor Architecture,track_400 level_1
+Student_92,701,4,Communication Theory,track_700 level_1
+Student_92,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_92,901,3,Database Management Systems,track_900 level_1
+Student_93,301,3,Electricity and Magnetism,track_300 level_1
+Student_93,401,3,Microprocessor Architecture,track_400 level_1
+Student_93,402,4,Real-Time Systems (RTOS),track_400 level_2
+Student_93,701,3,Communication Theory,track_700 level_1
+Student_94,111,5,Electric Circuits Analysis,track_110 level_1
+Student_94,401,3,Microprocessor Architecture,track_400 level_1
+Student_94,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_94,501,5,Classical Control Theory,track_500 level_1
+Student_94,701,4,Communication Theory,track_700 level_1
+Student_94,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_94,801,5,Networking Fundamentals,track_800 level_1
+Student_94,802,4,Routing & Switching,track_800 level_2
+Student_94,901,4,Database Management Systems,track_900 level_1
+Student_95,201,3,Object-Oriented Programming,track_200 level_1
+Student_95,501,5,Classical Control Theory,track_500 level_1
+Student_95,502,5,Modern Digital Control,track_500 level_2
+Student_95,701,5,Communication Theory,track_700 level_1
+Student_95,702,4,Digital Signal Processing (DSP),track_700 level_2
+Student_96,101,4,Linear Algebra,track_100 level_1
+Student_96,201,5,Object-Oriented Programming,track_200 level_1
+Student_96,301,4,Electricity and Magnetism,track_300 level_1
+Student_96,401,5,Microprocessor Architecture,track_400 level_1
+Student_96,402,3,Real-Time Systems (RTOS),track_400 level_2
+Student_96,501,4,Classical Control Theory,track_500 level_1
+Student_96,502,5,Modern Digital Control,track_500 level_2
+Student_96,701,4,Communication Theory,track_700 level_1
+Student_96,702,5,Digital Signal Processing (DSP),track_700 level_2
+Student_97,301,3,Electricity and Magnetism,track_300 level_1
+Student_97,302,3,Semiconductor Physics,track_300 level_2
+Student_97,401,3,Microprocessor Architecture,track_400 level_1
+Student_97,402,5,Real-Time Systems (RTOS),track_400 level_2
+Student_97,501,5,Classical Control Theory,track_500 level_1
+Student_98,101,3,Linear Algebra,track_100 level_1
+Student_98,301,3,Electricity and Magnetism,track_300 level_1
+Student_98,901,4,Database Management Systems,track_900 level_1
+Student_99,201,4,Object-Oriented Programming,track_200 level_1
+Student_99,501,5,Classical Control Theory,track_500 level_1
+Student_99,502,4,Modern Digital Control,track_500 level_2
+Student_99,601,3,Pattern Recognition,track_600 level_1
+Student_99,602,4,Neural Networks & Deep Learning,track_600 level_2
+Student_99,701,4,Communication Theory,track_700 level_1

@@ -1,0 +1,40 @@
+Course_ID,course_title,Tags,Credit_Hours
+101,Linear Algebra,track_100 level_1,3
+102,Numerical Analysis,track_100 level_2,3
+103,Probability & Statistics,track_100 level_3,3
+111,Electric Circuits Analysis,track_110 level_1,3
+112,Electronic Devices,track_110 level_2,3
+113,Power Systems Engineering,track_110 level_3,3
+114,Renewable Energy Systems,track_110 level_4,3
+201,Object-Oriented Programming,track_200 level_1,3
+202,Data Structures & Algorithms,track_200 level_2,3
+203,Software Architecture,track_200 level_3,3
+204,Cloud-Native Development,track_200 level_4,3
+301,Electricity and Magnetism,track_300 level_1,3
+302,Semiconductor Physics,track_300 level_2,3
+303,Optoelectronics,track_300 level_3,3
+304,Quantum Computing Basics,track_300 level_4,3
+401,Microprocessor Architecture,track_400 level_1,3
+402,Real-Time Systems (RTOS),track_400 level_2,3
+403,Hardware Description Languages (HDL),track_400 level_3,3
+404,System on Chip (SoC) Design,track_400 level_4,3
+501,Classical Control Theory,track_500 level_1,3
+502,Modern Digital Control,track_500 level_2,3
+503,Robotics & Kinematics,track_500 level_3,3
+504,Adaptive Control Systems,track_500 level_4,3
+601,Pattern Recognition,track_600 level_1,3
+602,Neural Networks & Deep Learning,track_600 level_2,3
+603,Computer Vision,track_600 level_3,3
+604,Natural Language Processing,track_600 level_4,3
+701,Communication Theory,track_700 level_1,3
+702,Digital Signal Processing (DSP),track_700 level_2,3
+703,Wireless Communication,track_700 level_3,3
+704,Information Theory & Coding,track_700 level_4,3
+801,Networking Fundamentals,track_800 level_1,3
+802,Routing & Switching,track_800 level_2,3
+803,Network Security,track_800 level_3,3
+804,Software Defined Networking (SDN),track_800 level_4,3
+901,Database Management Systems,track_900 level_1,3
+902,Big Data Technologies,track_900 level_2,3
+903,Data Warehousing,track_900 level_3,3
+904,ETL Pipeline Design,track_900 level_4,3
